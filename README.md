@@ -2,7 +2,7 @@
 <h3 align="center">An informatics engineering student and software developer from El Salvador.</h3>
 
 <h3 align="left">In progress:</h3>
-- 🌱 I’m currently learning **AWS, AI and ML**
+- 🌱 I’m currently learning AWS, AI and ML
 
 <!--
 <h3 align="left">Connect with me:</h3>
